@@ -32,7 +32,7 @@ pip install scikit-learn tensorflow numpy pandas keras matplotlib
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/stock-price-prediction.git
+git clone https://github.com/yourusername/stock-price-prediction-model.git
 cd stock-price-prediction
 ```
 
